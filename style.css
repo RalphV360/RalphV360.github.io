@@ -78,3 +78,13 @@ footer {
         margin: 10px 100px 30px 100px;
     }
 }
+/* LARGE SCREEN - 4K */
+@media screen and (min-width: 2560px){
+    main article {
+        font-family: 'Nunito', sans-serif;
+        text-align: center;
+        color: white;
+        padding: 10px;
+        margin: 10px 1000px 400px 1000px;
+    }
+}
